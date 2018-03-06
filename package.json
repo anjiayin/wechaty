@@ -99,7 +99,7 @@
     "@types/ws": "^4.0.1",
     "bl": "^1.2.0",
     "brolog": "^1.2.0",
-    "hot-import": "^0.1.0",
+    "hot-import": "^0.1.26",
     "mime": "^2.2.0",
     "puppeteer": "1.0.x",
     "raven": "^2.2.0",
